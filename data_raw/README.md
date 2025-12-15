@@ -51,7 +51,7 @@ containing the following information:
 
     NumSubjects   - number of subjects in data set
 
-    SubjectType       - details on data group
+    SubjectType   - details on data group
 
 Finally, 'height.txt' contains the height, in meters, of all subjects.
 
