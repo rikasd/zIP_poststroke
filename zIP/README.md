@@ -70,7 +70,7 @@ This method is used to obtain the intersection-point-height measure from a given
 predictZIPfromModel.m code in this work.
 
 Further details and derivation of this method can be found in the PDF document under the 
-[docs](https://github.com/rikasd/zIP_poststroke/main/docs/) directory.
+[docs](https://github.com/rikasd/zIP_poststroke/tree/main/docs) directory.
 
 ## References
 
