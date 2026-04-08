@@ -90,6 +90,7 @@ Frequency-dependent contributions of sagittal-plane foot force to upright human 
 J Biomech 83: 305–309. doi:10.1016/j.jbiomech.2018.11.039.
 
 [5] Bendat JS, Piersol AG. (2010). Random Data: Analysis and Measurement Procedures. Hoboken, NJ: Wiley.
+doi: 10.1002/9781118032428.
 
 [6] Sugimoto-Dimitrova R, Shiozawa K, Gruben KG, Hogan N. (2024). 
 Frequency-domain patterns in foot-force line-of-action: an emergent property of standing balance control.
