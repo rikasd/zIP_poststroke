@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Shiozawa"
+  given-names: "Kaymie"
+  orcid: "https://orcid.org/0000-0002-6155-8361"
+- family-names: "Sugimoto-Dimitrova"
+  given-names: "Rika"
+  orcid: "https://orcid.org/0000-0001-7055-0196"
+- family-names: "Gruben"
+  given-names: "Kreg"
+  orcid: "https://orcid.org/0000-0002-3862-4906"
+- family-names: "Hogan"
+  given-names: "Neville"
+  orcid: "https://orcid.org/0000-0001-5366-2145"
+title: "Geometric Intersection Point Computation and Modeling"
+version: 1.0.0
+doi: 10.5281/zenodo.19583320
+date-released: 2026-04-15
+url: "https://github.com/rikasd/zIP_poststroke"
