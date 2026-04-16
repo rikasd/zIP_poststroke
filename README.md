@@ -1,4 +1,4 @@
-# Supplementary material for "Foot-ground force quantifies impaired balance control mechanisms post-stroke" (under review)
+# Supplementary material for "Foot-ground force quantifies impaired balance control mechanisms post-stroke" (in press)
 
 ## Quick Start Guide:
 1. Ensure that you have MATLAB R2024a or later installed, along with the following toolboxes:
