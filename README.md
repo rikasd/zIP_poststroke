@@ -30,7 +30,7 @@ The simulation code is largely based on [Shiozawa et al. (2021)](https://doi.org
 
 ## References:
 
-Shiozawa, K., Sugimoto-Dimitrova, R., Gruben, K. G., & Hogan, N. (under review). Foot-ground force quantifies impaired balance control mechanisms post-stroke.
+Shiozawa, K., Sugimoto-Dimitrova, R., Gruben, K. G., & Hogan, N. (in press). Foot-ground force quantifies impaired balance control mechanisms post-stroke.
 
 Bartloff, J. N., Ochs, W. L., Nichols, K. M., & Gruben, K. G. (2024). Frequency-dependent behavior of paretic and non-paretic leg force during standing post stroke. Journal of Biomechanics, 164(January), 111953. https://doi.org/10.1016/j.jbiomech.2024.111953
 
