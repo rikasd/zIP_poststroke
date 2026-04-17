@@ -15,6 +15,5 @@ authors:
   orcid: "https://orcid.org/0000-0001-5366-2145"
 title: "Geometric Intersection Point Computation and Modeling"
 version: 1.0.0
-doi: 10.5281/zenodo.19583320
-date-released: 2026-04-15
+date-released: 2026-04-17
 url: "https://github.com/rikasd/zIP_poststroke"
