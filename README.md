@@ -29,6 +29,9 @@ Supplementary material for "Foot-ground force quantifies impaired balance contro
 ## Acknowledgements:
 The simulation code is largely based on [Shiozawa et al. (2021)](https://doi.org/10.1186/s12984-021-00907-2), while the [zIP code](https://github.com/rikasd/zIP_spectralmethod) is based on [Sugimoto-Dimitrova et al. (2024)](https://doi.org/10.1152/jn.00084.2024).
 
+## Patent Notice:
+This software my be covered by one or more patents owned by Wisconsin Alumni Research Foundation.  No right or license to such patent(s) is granted.
+
 ## References:
 
 Shiozawa, K., Sugimoto-Dimitrova, R., Gruben, K. G., & Hogan, N. (in press). Foot-ground force quantifies impaired balance control mechanisms post-stroke. Scientific Reports.
