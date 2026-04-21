@@ -30,7 +30,7 @@ Supplementary material for "Foot-ground force quantifies impaired balance contro
 The simulation code is largely based on Shiozawa et al. (2021), while the zIP code is based on Sugimoto-Dimitrova et al. (2024), also available at [https://github.com/rikasd/zIP_spectralmethod](https://github.com/rikasd/zIP_spectralmethod).
 
 ## Patent Notice:
-This software my be covered by one or more patents owned by Wisconsin Alumni Research Foundation.  No right or license to such patent(s) is granted.
+This software may be covered by one or more patents owned by Wisconsin Alumni Research Foundation.  No right or license to such patent(s) is granted.
 
 ## References:
 
